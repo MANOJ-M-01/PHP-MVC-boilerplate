@@ -2,7 +2,7 @@
 This is a skeleton for Object Oriented PHP(MVC) 
 
 ## How to install
-clone this repository then read the `README.md` file then create something awasome.
+clone this repository then read the `README.md` file. Then create something awasome.
 
 ## Notes
 

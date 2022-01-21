@@ -1,7 +1,6 @@
 <?php
 
-define('HOST_URL','http://localhost:8086/'); 
-define('BASE_PATH', realpath(dirname(__FILE__)));
+define('HOST_URL','http://localhost:8086/');
 
 // Database configuration
 define('DB_TYPE', 'mysql');
